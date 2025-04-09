@@ -22,7 +22,7 @@ class TestingConfig(Config):
 # Production configuration
 class ProductionConfig(Config):
     SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL') or \
-        'mysql+pymysql://username:password@localhost/taskhub'
+        'sqlite:///taskhub_prod.db'
 
 # Configuration dictionary
 config = {

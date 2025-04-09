@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TaskHub-Project/static/css/main.bac49c1d.css",
-    "main.js": "/TaskHub-Project/static/js/main.d7e186a1.js",
+    "main.js": "/TaskHub-Project/static/js/main.045f9508.js",
     "index.html": "/TaskHub-Project/index.html",
     "main.bac49c1d.css.map": "/TaskHub-Project/static/css/main.bac49c1d.css.map",
-    "main.d7e186a1.js.map": "/TaskHub-Project/static/js/main.d7e186a1.js.map"
+    "main.045f9508.js.map": "/TaskHub-Project/static/js/main.045f9508.js.map"
   },
   "entrypoints": [
     "static/css/main.bac49c1d.css",
-    "static/js/main.d7e186a1.js"
+    "static/js/main.045f9508.js"
   ]
 }

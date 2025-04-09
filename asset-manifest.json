@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TaskHub-Project/static/css/main.bac49c1d.css",
+    "main.js": "/TaskHub-Project/static/js/main.13465f14.js",
+    "index.html": "/TaskHub-Project/index.html",
+    "main.bac49c1d.css.map": "/TaskHub-Project/static/css/main.bac49c1d.css.map",
+    "main.13465f14.js.map": "/TaskHub-Project/static/js/main.13465f14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bac49c1d.css",
+    "static/js/main.13465f14.js"
+  ]
+}

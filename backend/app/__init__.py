@@ -18,7 +18,7 @@ def create_app(config_name='development'):
     # Initialize extensions
     db.init_app(app)
     jwt.init_app(app)
-    CORS(app, resources={r"/api/*": {"origins": "http://localhost:3000"}})
+    
     CORS(app, resources={r"/api/*": {"origins": "*"}})
 
     # Register blueprints
